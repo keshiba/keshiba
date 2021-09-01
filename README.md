@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @keshiba
+- 🌱 I’m a software engineer and am trying to pivot into cybersecurity
+- Certs: eJPT
